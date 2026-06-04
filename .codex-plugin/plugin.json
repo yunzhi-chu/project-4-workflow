@@ -1,0 +1,26 @@
+{
+  "name": "project-4-workflow",
+  "version": "1.0.0",
+  "description": "从 superpowers 改编的个人开发工作流技能集",
+  "author": {
+    "name": "yunzhi-chu"
+  },
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Project 4 Workflow",
+    "shortDescription": "个人工作流：需求打磨→编写计划→TDD→子代理开发→代码审查→完成分支",
+    "longDescription": "基于 superpowers 方法论改编的个人技能框架。\n提供完整的开发工作流：\n- 需求打磨：将模糊想法转化为设计文档\n- 编写计划：将设计拆分为可执行任务\n- 测试驱动开发：RED-GREEN-REFACTOR 循环\n- 子代理开发：逐任务分派子代理执行\n- 代码审查：规格合规 + 代码质量二阶段审查\n- 完成分支：测试验证 + 合并/PR/保留/丢弃决策\n- 系统调试：四阶段根因分析",
+    "developerName": "yunzhi-chu",
+    "category": "Coding",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "我想开发一个新功能，帮我走完整个流程。"
+    ],
+    "brandColor": "#F59E0B"
+  }
+}
