@@ -61,3 +61,8 @@ gh pr create --title "<标题>" --body "变更说明"
 4. 只有确认后，才能声称完成。
 
 **没有验证证据的"已完成"声明是不诚实的。**
+
+---
+
+---
+> 来源：改编自 [obra/superpowers](https://github.com/obra/superpowers) 的 finishing-a-development-branch 技能，内容经简化和中文化处理。

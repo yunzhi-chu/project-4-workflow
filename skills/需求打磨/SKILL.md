@@ -48,3 +48,8 @@ description: 在写任何代码之前必须先使用此技能。用于将模糊�
 - **隔离清晰** — 每个单元一个职责，有明确定义的接口
 - **遵循现有模式** — 在现有代码库中跟随已有风格
 - **不做无关的重构** — 只改目标所需的部分
+
+---
+
+---
+> 来源：改编自 [obra/superpowers](https://github.com/obra/superpowers) 的 brainstorming 技能，内容经简化和中文化处理。

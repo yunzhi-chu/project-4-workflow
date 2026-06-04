@@ -53,3 +53,8 @@ description: 遇到任何 bug、测试失败、或意外行为时使用，在提
 | "先试一下这个修复" | 没有诊断的治疗是乱试 |
 | "我赶时间" | 系统化调试比乱撞快 |
 | "之前修过类似问题" | 症状相似不代表根因相同 |
+
+---
+
+---
+> 来源：改编自 [obra/superpowers](https://github.com/obra/superpowers) 的 systematic-debugging 技能，内容经简化和中文化处理。

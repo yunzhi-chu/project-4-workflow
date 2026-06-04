@@ -30,3 +30,8 @@ description: 在声称工作完成、修复通过、或准备提交之前使用�
 | "我上次跑通过了" | 这轮对话中的新鲜结果才算数 |
 | "只是改了注释" | 改注释也可能影响构建 |
 | "太简单不会错" | 简单的地方反而容易翻车 |
+
+---
+
+---
+> 来源：改编自 [obra/superpowers](https://github.com/obra/superpowers) 的 verification-before-completion 技能，内容经简化和中文化处理。

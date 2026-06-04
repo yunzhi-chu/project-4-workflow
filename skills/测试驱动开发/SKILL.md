@@ -47,3 +47,8 @@ description: 实现任何功能或修复 bug 时使用。先写测试，再写�
 - 一次性原型
 - 配置文件
 - 纯生成的代码
+
+---
+
+---
+> 来源：改编自 [obra/superpowers](https://github.com/obra/superpowers) 的 test-driven-development 技能，内容经简化和中文化处理。

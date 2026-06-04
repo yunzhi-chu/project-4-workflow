@@ -97,3 +97,8 @@ git add -A && git commit -m "feat: add specific feature"
 ## 执行交接
 
 保存计划后询问用户选择：子代理模式（逐任务分派）还是内联执行模式。
+
+---
+
+---
+> 来源：改编自 [obra/superpowers](https://github.com/obra/superpowers) 的 writing-plans 技能，内容经简化和中文化处理。

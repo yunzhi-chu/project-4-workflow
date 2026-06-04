@@ -47,3 +47,8 @@ HEAD_SHA=$(git rev-parse HEAD)
 - 子代理收到的是代码和需求，不是你的历史对话
 - 发现问题 → 返回实现者修复 → 重新审查 → 循环直到通过
 - 不要跳过审查因为"这只是个小改动"
+
+---
+
+---
+> 来源：改编自 [obra/superpowers](https://github.com/obra/superpowers) 的 requesting-code-review 技能，内容经简化和中文化处理。

@@ -43,3 +43,8 @@ description: 执行实施计划时使用。逐任务分派子代理，每任务�
 | DONE_WITH_CONCERNS | 先评估疑虑再审查 |
 | NEEDS_CONTEXT | 补充上下文后重新分派 |
 | BLOCKED | 升级模型或减化任务；不改动就重试是浪费 |
+
+---
+
+---
+> 来源：改编自 [obra/superpowers](https://github.com/obra/superpowers) 的 subagent-driven-development 技能，内容经简化和中文化处理。
